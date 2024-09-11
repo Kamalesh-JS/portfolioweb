@@ -1,0 +1,58 @@
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}
+
+@media screen and (max-width: 480px) {
+    #rit{
+        height:250px;
+        width: 300px;
+        margin-left: 40px;
+    }
+    .bio{
+        float: inherit;
+    }
+    .resumebut{
+        display: flex;
+        justify-content: center;
+        margin-left: 20%;
+    }
+    .kamal{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 100px;
+    }
+    .kamaltext{
+        display: flex;
+        justify-content: center;
+        margin-left: 130px;
+    }
+    .biotext{
+        width: 480px;
+    }
+    .para{
+        width: 450px;
+    }
+    .clgsch{
+        width: 500px
+    }
+    .clgschlogo{
+        margin-left:50px ;
+    }
+    .col1{
+        margin-left: 80px;
+    }
+    .imgico{
+        margin-left: 130px;
+    }
+    .footer{
+        margin-left: 170px;
+    }
+    }
+.projects{
+    background-color: rgb(245, 251, 255);
+}
